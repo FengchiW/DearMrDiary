@@ -1,0 +1,8 @@
+[]
+{}
+()
+-
+|
+--->
+<>
+{-ACTION_NAME-} >> Lock Action

@@ -1,0 +1,51 @@
+
+# Introduction,
+
+Dear Mr Diary,
+
+	Today is Monday 1st of Year 34, I'm moving to a new school, I'm leaving my old friends. Roger, Lucy...
+Thats fine... I'm going to see new things and maybe trun over a new leaf.
+I've been having nightmares for a while now. I don't know, I guess I'm scared of...
+No, Thats not right I should be strong! Tommarow my life is going to change I know it...
+
+# MAIN SCREEN
+
+<music> Sad calming <music>
+
+[Inside book]
+Dear Mr Diary,
+	{Start}
+	{-Submit a Page-}
+	{Fourms}
+	{Contact (if theres any bugs){}
+
+# START
+
+Dear Mr Diary,
+
+	We moved in...
+			{NEXT}
+
+- ACTION
++-SOUND-+
+	BEEP BEEP BEEP
+
+Hey, Get out of bed! Its time for you to get to school! - Mom
+
+Uugh... - Char
+
+I SAID NOW! - Mom
+
+Im moving, im moving... - Char
+
+Your too late for breakfast grab your lunch and leave this instant! - Mom
+
+... - Char
+
+[Walk Scene]
+?PATH {
+	TASK - _Go Home_ EFFECT- 
+	TASK - _Go to School_ EFFECT-
+	TASK - _Go to park_ EFFECT-
+	TASK - _OUT OF TIME_ EFFECT- 
+}
